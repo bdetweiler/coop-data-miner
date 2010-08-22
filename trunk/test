@@ -1,0 +1,938 @@
+productkey = A40000000300000035353237372D4F454D2D303034363534322D3632323634002B0000004132322D303030303100000000000000F0C77C37E5F9A0F5C5BADBE0E8C7020000000000EB35513F720025000200000000000000000000000000000000000000000000003230363035000000000000000B1200003542A864BF010000880100000000000000000000000000000000000000000000000000000000000096DCE25A
+Begin trying to encode the data.
+Data = 
+Trying now
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B&cpu_speed=1789
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B&cpu_speed=1789
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B&cpu_speed=1789&ip=192.168.0.106
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B&cpu_speed=1789&ip=192.168.0.106&mouse=MICROSOFT+PS2+MOUSE
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B&cpu_speed=1789&ip=192.168.0.106&mouse=MICROSOFT+PS2+MOUSE&keyboard=Enhanced+101+or+102+key+US+and+Non+US+keyboards
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B&cpu_speed=1789&ip=192.168.0.106&mouse=MICROSOFT+PS2+MOUSE&keyboard=Enhanced+101+or+102+key+US+and+Non+US+keyboards&os=Microsoft+Windows+XP
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B&cpu_speed=1789&ip=192.168.0.106&mouse=MICROSOFT+PS2+MOUSE&keyboard=Enhanced+101+or+102+key+US+and+Non+US+keyboards&os=Microsoft+Windows+XP&os_sn=55277-OEM-0046542-62264
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B&cpu_speed=1789&ip=192.168.0.106&mouse=MICROSOFT+PS2+MOUSE&keyboard=Enhanced+101+or+102+key+US+and+Non+US+keyboards&os=Microsoft+Windows+XP&os_sn=55277-OEM-0046542-62264&owner=Brian+Detweiler
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B&cpu_speed=1789&ip=192.168.0.106&mouse=MICROSOFT+PS2+MOUSE&keyboard=Enhanced+101+or+102+key+US+and+Non+US+keyboards&os=Microsoft+Windows+XP&os_sn=55277-OEM-0046542-62264&owner=Brian+Detweiler&hostname=BEAUTY
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B&cpu_speed=1789&ip=192.168.0.106&mouse=MICROSOFT+PS2+MOUSE&keyboard=Enhanced+101+or+102+key+US+and+Non+US+keyboards&os=Microsoft+Windows+XP&os_sn=55277-OEM-0046542-62264&owner=Brian+Detweiler&hostname=BEAUTY&modem=Conexant+56K+ACLink+Modem
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B&cpu_speed=1789&ip=192.168.0.106&mouse=MICROSOFT+PS2+MOUSE&keyboard=Enhanced+101+or+102+key+US+and+Non+US+keyboards&os=Microsoft+Windows+XP&os_sn=55277-OEM-0046542-62264&owner=Brian+Detweiler&hostname=BEAUTY&modem=Conexant+56K+ACLink+Modem&hd0=IDE%5CDiskIC25N040ATCS04-0________________________CA4OA71A%5C5%2637cd7add%260%260.0.0
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B&cpu_speed=1789&ip=192.168.0.106&mouse=MICROSOFT+PS2+MOUSE&keyboard=Enhanced+101+or+102+key+US+and+Non+US+keyboards&os=Microsoft+Windows+XP&os_sn=55277-OEM-0046542-62264&owner=Brian+Detweiler&hostname=BEAUTY&modem=Conexant+56K+ACLink+Modem&hd0=IDE%5CDiskIC25N040ATCS04-0________________________CA4OA71A%5C5%2637cd7add%260%260.0.0&lpt1=%5CDosDevices%5CLPT1
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B&cpu_speed=1789&ip=192.168.0.106&mouse=MICROSOFT+PS2+MOUSE&keyboard=Enhanced+101+or+102+key+US+and+Non+US+keyboards&os=Microsoft+Windows+XP&os_sn=55277-OEM-0046542-62264&owner=Brian+Detweiler&hostname=BEAUTY&modem=Conexant+56K+ACLink+Modem&hd0=IDE%5CDiskIC25N040ATCS04-0________________________CA4OA71A%5C5%2637cd7add%260%260.0.0&lpt1=%5CDosDevices%5CLPT1&com1=COM1
+Data = Enter=Entercpu_type=mobile+AMD+Athlon%28tm%29+XP2200%2B&cpu_speed=1789&ip=192.168.0.106&mouse=MICROSOFT+PS2+MOUSE&keyboard=Enhanced+101+or+102+key+US+and+Non+US+keyboards&os=Microsoft+Windows+XP&os_sn=55277-OEM-0046542-62264&owner=Brian+Detweiler&hostname=BEAUTY&modem=Conexant+56K+ACLink+Modem&hd0=IDE%5CDiskIC25N040ATCS04-0________________________CA4OA71A%5C5%2637cd7add%260%260.0.0&lpt1=%5CDosDevices%5CLPT1&com1=COM1&ieee_1394=1394+Net+Driver
+testing
+In the while loop: 
+Line = <html>
+In the while loop: 
+Line =     <head class="" id="">
+In the while loop: 
+Line =         <meta http-equiv="Content-type" content="text/html; charset=ISO-8859-1">
+In the while loop: 
+Line =         <link href="templates/cdm-style.css" type="text/css" rel="stylesheet">
+In the while loop: 
+Line =         <title class="" id="">
+In the while loop: 
+Line =             Coop Data Miner
+In the while loop: 
+Line =         </title>
+In the while loop: 
+Line =     </head>
+In the while loop: 
+Line =     <body>
+In the while loop: 
+Line =         <table class="" id="" cellspacing="0">
+In the while loop: 
+Line =             <tbody>
+In the while loop: 
+Line =                 <tr class="menu" id="">
+In the while loop: 
+Line =                     <td class="" id="left">
+In the while loop: 
+Line =                         <table class="" id="masthead">
+In the while loop: 
+Line =                             <tr class="" id="masthead">
+In the while loop: 
+Line =                                 <td class="" id="masthead">
+In the while loop: 
+Line =                                     <a href="http://192.168.0.41//">
+In the while loop: 
+Line =                                     </a>
+In the while loop: 
+Line =                                 </td>
+In the while loop: 
+Line =                             </tr>
+In the while loop: 
+Line =                         </table>
+In the while loop: 
+Line =                             QUERIES
+In the while loop: 
+Line =                         <table class="menu" id="">
+In the while loop: 
+Line =                             <tbody>
+In the while loop: 
+Line =                                 <tr class="menu" id="">
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                         <img src="images/bullet-red.gif" alt="bullet" width="17">
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                         <a href="http://192.168.0.41/cdm.php?query=all">
+In the while loop: 
+Line =                                             List All
+In the while loop: 
+Line =                                         </a>
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                 </tr>
+In the while loop: 
+Line =                                 <tr class="menu" id="">
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                         <img src="images/bullet-red.gif" alt="bullet" width="17">
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                         <a href="http://192.168.0.41/cdm.php?query=location">
+In the while loop: 
+Line =                                             By Location
+In the while loop: 
+Line =                                         </a>
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                 </tr>
+In the while loop: 
+Line =                                 <tr class="menu" id="">
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                         <img src="images/bullet-red.gif" alt="bullet" width="17">
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line = 
+In the while loop: 
+Line = 
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                         <a href="http://192.168.0.41/cdm.php?query=device">
+In the while loop: 
+Line =                                             By Device
+In the while loop: 
+Line =                                         </a>
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                 </tr>
+In the while loop: 
+Line =                                 <tr class="menu" id="">
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                         <img src="images/bullet-red.gif" alt="bullet" width="17">
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                         <a href="http://192.168.0.41/cdm.php?query=brand">
+In the while loop: 
+Line =                                             By Brand
+In the while loop: 
+Line =                                         </a>
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                 </tr>
+In the while loop: 
+Line =                                 <tr class="menu" id="">
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                         <img src="images/bullet-red.gif" alt="bullet" width="17">
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                         <a href="http://192.168.0.41/cdm.php?query=os">
+In the while loop: 
+Line =                                             By Operating System
+In the while loop: 
+Line =                                         </a>
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                 </tr>
+In the while loop: 
+Line =                                 <tr class="menu" id="">
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                         <img src="images/bullet-red.gif" alt="bullet" width="17">
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                     <td class="menu" id="">
+In the while loop: 
+Line =                                         <a href="http://192.168.0.41/cdm.php?query=ip">
+In the while loop: 
+Line =                                             By IP Address
+In the while loop: 
+Line =                                         </a>
+In the while loop: 
+Line =                                     </td>
+In the while loop: 
+Line =                                 </tr>
+In the while loop: 
+Line =                             </tr>
+In the while loop: 
+Line =                         </tbody>
+In the while loop: 
+Line =                     </table>
+In the while loop: 
+Line = 
+In the while loop: 
+Line =                         ENTER NEW DATA
+In the while loop: 
+Line =                     <table class="menu" id="">
+In the while loop: 
+Line =                         <tbody>
+In the while loop: 
+Line =                             <tr class="menu" id="">
+In the while loop: 
+Line =                                 <td class="menu" id="">
+In the while loop: 
+Line =                                 </td>
+In the while loop: 
+Line =                                 <td class="menu" id="">
+In the while loop: 
+Line =                                     <img src="images/bullet-red.gif" alt="bullet" width="17">
+In the while loop: 
+Line =                                 </td>
+In the while loop: 
+Line =                                 <td class="menu" id="">
+In the while loop: 
+Line =                                     <a href="http://192.168.0.41/cdm_data_entry.php">
+In the while loop: 
+Line =                                         Enter New Data
+In the while loop: 
+Line =                                     </a>
+In the while loop: 
+Line =                                 </td>
+In the while loop: 
+Line =                             </tr>
+In the while loop: 
+Line =                         </tbody>
+In the while loop: 
+Line =                     </table>
+In the while loop: 
+Line =                 <div align="center">
+In the while loop: 
+Line =     <font face="Sans-Seriv" color="#000000" size="1">
+In the while loop: 
+Line =         Today is August 9, 2005    </font>
+In the while loop: 
+Line =     <br />
+In the while loop: 
+Line =     <font face="Sans-Serif" color="#000000" size="1">
+In the while loop: 
+Line =         Copyright&nbsp;
+In the while loop: 
+Line =     </font>
+In the while loop: 
+Line =     <font face="Sans-Serif" color="#000000" size="2">
+In the while loop: 
+Line =         ©&nbsp;
+In the while loop: 
+Line =     </font>
+In the while loop: 
+Line =     <font face="Sans-Serif" color="#000000" size="1">
+In the while loop: 
+Line =         Aurora&nbsp;Cooperative&nbsp;&nbsp;2004
+In the while loop: 
+Line =     </font>
+In the while loop: 
+Line = </div>
+In the while loop: 
+Line =             </td>
+In the while loop: 
+Line = Entered Successfully...
+In the while loop: 
+Line =             <td class="" id="center">
+In the while loop: 
+Line =             </td>
+In the while loop: 
+Line =             <td class="" id="right">
+In the while loop: 
+Line =                 <form action="http://192.168.0.41/cdm_data_entry.php" method="post">
+In the while loop: 
+Line =                 <h2 class="" id="">                                 Enter New Data                </h2>
+In the while loop: 
+Line =                 <table class="" id="filter" cellspacing="0">
+In the while loop: 
+Line =                     <tbody>
+In the while loop: 
+Line =                             <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Location
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="location" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Operating System Serial Number
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="os_sn" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Operating System Type
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <select name="os"> 
+In the while loop: 
+Line =                 <option value="windows2003" >
+In the while loop: 
+Line =                     Windows 2003                    </option>
+In the while loop: 
+Line =                 <option value="windowsXP" >
+In the while loop: 
+Line =                     Windows XP                      </option>
+In the while loop: 
+Line =                 <option value="windowsME" >
+In the while loop: 
+Line =                     Windows ME                      </option>
+In the while loop: 
+Line =                 <option value="windows2000" >
+In the while loop: 
+Line =                     Windows 2000                    </option>
+In the while loop: 
+Line =                 <option value="windows98" >
+In the while loop: 
+Line =                     Windows 98                      </option>
+In the while loop: 
+Line =                 <option value="windows95" >
+In the while loop: 
+Line =                     Windows 95                      </option>
+In the while loop: 
+Line =                 <option value="windowsNT" >
+In the while loop: 
+Line =                     Windows NT                      </option>
+In the while loop: 
+Line =                 <option value="windows311" >
+In the while loop: 
+Line =                     Windows 3.11                    </option>
+In the while loop: 
+Line =                 <option value="Linux" >
+In the while loop: 
+Line =                     Linux            
+In the while loop: 
+Line =                 </option>
+In the while loop: 
+Line =                 <option value="FreeBSD" >
+In the while loop: 
+Line =                     FreeBSD          
+In the while loop: 
+Line =                 </option>
+In the while loop: 
+Line =                 <option value="OpenBSD" >
+In the while loop: 
+Line =                     OpenBSD                         </option>
+In the while loop: 
+Line =                 <option value="NetBSD" >
+In the while loop: 
+Line =                     NetBSD                          </option>
+In the while loop: 
+Line =                 <option value="Mac" >
+In the while loop: 
+Line =                     Mac                             </option>
+In the while loop: 
+Line =                 <option value="QNX" >
+In the while loop: 
+Line =                     QNX                             </option>
+In the while loop: 
+Line =                 <option value="OtherEmbeded" >
+In the while loop: 
+Line =                     Other: Embeded                  </option>
+In the while loop: 
+Line =                 <option value="OtherX86" >
+In the while loop: 
+Line =                     Other: x86                      </option>
+In the while loop: 
+Line =                 <option value="OtherServer" >
+In the while loop: 
+Line =                     Other: Server                   </option>
+In the while loop: 
+Line =             </select>    
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Operating System Version
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="os_ver" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             MAC Address
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="mac" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Hostname
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="hostname" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Workgroup
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="workgroup" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =                 Domain
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="domain" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             IP Address
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="ip" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =             <td class="field" id="">
+In the while loop: 
+Line =             Hard Drive 0
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="hd0" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Hard Drive 1
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="hd1" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             CD Rom 0
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="cd0" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             CD Rom 1
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="cd1" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Floppy Disk
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="fd0" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Display Adapter
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="display_adapter" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             IEEE 1394 Adapter
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="ieee_1394" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Keyboard
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="keyboard" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Mouse
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="mouse" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Modem
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="modem" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Monitor
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="monitor" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Ethernet Adapter
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="eth0" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Serial Port 
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="com0" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Parallel Port
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="lpt0" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =                 PCMCIA
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="pcmcia" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             CPU Type
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="cpu_type" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             CPU Speed
+In the while loop: 
+Line =             </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="cpu_speed" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =         <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Sound Adapter
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="sound_adapter" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Owner
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="owner" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =                 Device
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="device" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Brand
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="brand" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =     <tr class="field" id="">
+In the while loop: 
+Line =         <td class="field" id="">
+In the while loop: 
+Line =             Serial Number
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =         <td class="" id="">
+In the while loop: 
+Line =             <input name="serial_number" value="" type="text">
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line =                     </tbody>
+In the while loop: 
+Line =                 </table>
+In the while loop: 
+Line =                 <table class="fieldtitle" id="">
+In the while loop: 
+Line =                     <tbody>
+In the while loop: 
+Line =                         <tr class="fieldtitle" id="">
+In the while loop: 
+Line =                             <td class="fieldtitle" id="">
+In the while loop: 
+Line =                                 <!--Begin Query-->
+In the while loop: 
+Line =                                 Enter Data
+In the while loop: 
+Line =                             </td>
+In the while loop: 
+Line =                             </tr>
+In the while loop: 
+Line =                     </tbody>
+In the while loop: 
+Line =                 </table>
+In the while loop: 
+Line =                 <table>
+In the while loop: 
+Line =                     <tbody>
+In the while loop: 
+Line =                         <tr class="" id="">
+In the while loop: 
+Line =                             <td class="" id="">
+In the while loop: 
+Line =                                 <input name="Enter" value="Enter" type="submit">
+In the while loop: 
+Line =                             </td>
+In the while loop: 
+Line =                         </tr>
+In the while loop: 
+Line =                     </tbody>
+In the while loop: 
+Line =                 </table>
+In the while loop: 
+Line =             </form>
+In the while loop: 
+Line =         </td>
+In the while loop: 
+Line =     </tr>
+In the while loop: 
+Line = </tbody>
+In the while loop: 
+Line = </table>
+In the while loop: 
+Line = 
+In the while loop: 
+Line = 
+In the while loop: 
+Line = 
+In the while loop: 
+Line = <!-- end -->
+In the while loop: 
+Line = </body>
+In the while loop: 
+Line = </html>

@@ -1,0 +1,3701 @@
+String fullPID = 
+String encodedKey = 
+if(queryRegistry(PRODUCT_KEY_CMD, REGBINARY_TOKEN) != null)
+fullPID = queryRegistry(PRODUCT_KEY_CMD, REGBINARY_TOKEN
+fullPID = A40000000300000035353237372D4F454D2D303034363534322D3632323634002B0000004132322D303030303100000000000000F0C77C37E5F9A0F5C5BADBE0E8C7020000000000EB35513F720025000200000000000000000000000000000000000000000000003230363035000000000000000B1200003542A864BF010000880100000000000000000000000000000000000000000000000000000000000096DCE25A
+encodedKey = fullPID.substring(104, 134)
+encodedKey = F0C77C37E5F9A0F5C5BADBE0E8C702
+final char[] digits = B C etc
+D_LEN = 29
+S_LEN = 15
+int[] hexDigitalPID = new int[D_LEN]
+char[] des = new char[D_LEN + 1]
+int i = 0
+int n = 0
+int tmp = 0
+int hn = 0
+int value = 0
+String rval = ""
+i = 0
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 240
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+i = 1
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 199
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+i = 2
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 124
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+i = 3
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 55
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+i = 4
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 229
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+i = 5
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 249
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+i = 6
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 160
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+i = 7
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 245
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+i = 8
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 197
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+i = 9
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 186
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+i = 10
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 219
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+i = 11
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 224
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+i = 12
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 232
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+i = 13
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 199
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+i = 14
+for(i = 0; i <= 30; i += 2)
+if((i + 2) <= 30)
+hexDigitalPID[i] = Integer.decode("0x" + encodeKey.substring(i * 2, i * 2 + 1)).intvalue() = 2
+end if((i + 2) <= 30), bottom of for(i = 0; i <= 30; i += 2)
+hexDigitalPID[14] = 2 bin = 10
+end for(i = 0; i <= 30; i += 2)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 2 bin = 10
+hn AFTER shift bin = 10
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 2 bin = 10
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 2 bin = 10
+hexDigitalPID[n] = 199 bin = 11000111
+hn AFTER shift bin = 1011000111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 711
+hn / 24 = 29 bin = 11101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 29
+hn AFTER % 24 = 15 bin = 1111
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 15 bin = 1111
+hexDigitalPID[n] = 232 bin = 11101000
+hn AFTER shift bin = 111111101000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4072
+hn / 24 = 169 bin = 10101001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 169
+hn AFTER % 24 = 16 bin = 10000
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 16 bin = 10000
+hexDigitalPID[n] = 224 bin = 11100000
+hn AFTER shift bin = 1000011100000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4320
+hn / 24 = 180 bin = 10110100
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 180
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 219 bin = 11011011
+hn AFTER shift bin = 11011011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 219
+hn / 24 = 9 bin = 1001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 9
+hn AFTER % 24 = 3 bin = 11
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 3 bin = 11
+hexDigitalPID[n] = 186 bin = 10111010
+hn AFTER shift bin = 1110111010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 954
+hn / 24 = 39 bin = 100111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 39
+hn AFTER % 24 = 18 bin = 10010
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 18 bin = 10010
+hexDigitalPID[n] = 197 bin = 11000101
+hn AFTER shift bin = 1001011000101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4805
+hn / 24 = 200 bin = 11001000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 200
+hn AFTER % 24 = 5 bin = 101
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 5 bin = 101
+hexDigitalPID[n] = 245 bin = 11110101
+hn AFTER shift bin = 10111110101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1525
+hn / 24 = 63 bin = 111111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 63
+hn AFTER % 24 = 13 bin = 1101
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 13 bin = 1101
+hexDigitalPID[n] = 160 bin = 10100000
+hn AFTER shift bin = 110110100000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3488
+hn / 24 = 145 bin = 10010001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 145
+hn AFTER % 24 = 8 bin = 1000
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 8 bin = 1000
+hexDigitalPID[n] = 249 bin = 11111001
+hn AFTER shift bin = 100011111001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2297
+hn / 24 = 95 bin = 1011111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 95
+hn AFTER % 24 = 17 bin = 10001
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 17 bin = 10001
+hexDigitalPID[n] = 229 bin = 11100101
+hn AFTER shift bin = 1000111100101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4581
+hn / 24 = 190 bin = 10111110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 190
+hn AFTER % 24 = 21 bin = 10101
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 21 bin = 10101
+hexDigitalPID[n] = 55 bin = 110111
+hn AFTER shift bin = 1010100110111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5431
+hn / 24 = 226 bin = 11100010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 226
+hn AFTER % 24 = 7 bin = 111
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 7 bin = 111
+hexDigitalPID[n] = 124 bin = 1111100
+hn AFTER shift bin = 11101111100
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1916
+hn / 24 = 79 bin = 1001111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 79
+hn AFTER % 24 = 20 bin = 10100
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 20 bin = 10100
+hexDigitalPID[n] = 199 bin = 11000111
+hn AFTER shift bin = 1010011000111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5319
+hn / 24 = 221 bin = 11011101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 221
+hn AFTER % 24 = 15 bin = 1111
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 15 bin = 1111
+hexDigitalPID[n] = 240 bin = 11110000
+hn AFTER shift bin = 111111110000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4080
+hn / 24 = 170 bin = 10101010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 170
+hn AFTER % 24 = 0 bin = 0
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = B
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 29 bin = 11101
+hn AFTER shift bin = 11101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 29
+hn / 24 = 1 bin = 1
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 1
+hn AFTER % 24 = 5 bin = 101
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 5 bin = 101
+hexDigitalPID[n] = 169 bin = 10101001
+hn AFTER shift bin = 10110101001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1449
+hn / 24 = 60 bin = 111100
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 60
+hn AFTER % 24 = 9 bin = 1001
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 9 bin = 1001
+hexDigitalPID[n] = 180 bin = 10110100
+hn AFTER shift bin = 100110110100
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2484
+hn / 24 = 103 bin = 1100111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 103
+hn AFTER % 24 = 12 bin = 1100
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 12 bin = 1100
+hexDigitalPID[n] = 9 bin = 1001
+hn AFTER shift bin = 110000001001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3081
+hn / 24 = 128 bin = 10000000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 128
+hn AFTER % 24 = 9 bin = 1001
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 9 bin = 1001
+hexDigitalPID[n] = 39 bin = 100111
+hn AFTER shift bin = 100100100111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2343
+hn / 24 = 97 bin = 1100001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 97
+hn AFTER % 24 = 15 bin = 1111
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 15 bin = 1111
+hexDigitalPID[n] = 200 bin = 11001000
+hn AFTER shift bin = 111111001000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4040
+hn / 24 = 168 bin = 10101000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 168
+hn AFTER % 24 = 8 bin = 1000
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 8 bin = 1000
+hexDigitalPID[n] = 63 bin = 111111
+hn AFTER shift bin = 100000111111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2111
+hn / 24 = 87 bin = 1010111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 87
+hn AFTER % 24 = 23 bin = 10111
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 23 bin = 10111
+hexDigitalPID[n] = 145 bin = 10010001
+hn AFTER shift bin = 1011110010001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 6033
+hn / 24 = 251 bin = 11111011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 251
+hn AFTER % 24 = 9 bin = 1001
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 9 bin = 1001
+hexDigitalPID[n] = 95 bin = 1011111
+hn AFTER shift bin = 100101011111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2399
+hn / 24 = 99 bin = 1100011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 99
+hn AFTER % 24 = 23 bin = 10111
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 23 bin = 10111
+hexDigitalPID[n] = 190 bin = 10111110
+hn AFTER shift bin = 1011110111110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 6078
+hn / 24 = 253 bin = 11111101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 253
+hn AFTER % 24 = 6 bin = 110
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 6 bin = 110
+hexDigitalPID[n] = 226 bin = 11100010
+hn AFTER shift bin = 11011100010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1762
+hn / 24 = 73 bin = 1001001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 73
+hn AFTER % 24 = 10 bin = 1010
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 10 bin = 1010
+hexDigitalPID[n] = 79 bin = 1001111
+hn AFTER shift bin = 101001001111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2639
+hn / 24 = 109 bin = 1101101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 109
+hn AFTER % 24 = 23 bin = 10111
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 23 bin = 10111
+hexDigitalPID[n] = 221 bin = 11011101
+hn AFTER shift bin = 1011111011101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 6109
+hn / 24 = 254 bin = 11111110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 254
+hn AFTER % 24 = 13 bin = 1101
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 13 bin = 1101
+hexDigitalPID[n] = 170 bin = 10101010
+hn AFTER shift bin = 110110101010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3498
+hn / 24 = 145 bin = 10010001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 145
+hn AFTER % 24 = 18 bin = 10010
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = 3
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 1 bin = 1
+hn AFTER shift bin = 1
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 1 bin = 1
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 1 bin = 1
+hexDigitalPID[n] = 60 bin = 111100
+hn AFTER shift bin = 100111100
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 316
+hn / 24 = 13 bin = 1101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 13
+hn AFTER % 24 = 4 bin = 100
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 4 bin = 100
+hexDigitalPID[n] = 103 bin = 1100111
+hn AFTER shift bin = 10001100111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1127
+hn / 24 = 46 bin = 101110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 46
+hn AFTER % 24 = 23 bin = 10111
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 23 bin = 10111
+hexDigitalPID[n] = 128 bin = 10000000
+hn AFTER shift bin = 1011110000000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 6016
+hn / 24 = 250 bin = 11111010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 250
+hn AFTER % 24 = 16 bin = 10000
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 16 bin = 10000
+hexDigitalPID[n] = 97 bin = 1100001
+hn AFTER shift bin = 1000001100001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4193
+hn / 24 = 174 bin = 10101110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 174
+hn AFTER % 24 = 17 bin = 10001
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 17 bin = 10001
+hexDigitalPID[n] = 168 bin = 10101000
+hn AFTER shift bin = 1000110101000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4520
+hn / 24 = 188 bin = 10111100
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 188
+hn AFTER % 24 = 8 bin = 1000
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 8 bin = 1000
+hexDigitalPID[n] = 87 bin = 1010111
+hn AFTER shift bin = 100001010111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2135
+hn / 24 = 88 bin = 1011000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 88
+hn AFTER % 24 = 23 bin = 10111
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 23 bin = 10111
+hexDigitalPID[n] = 251 bin = 11111011
+hn AFTER shift bin = 1011111111011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 6139
+hn / 24 = 255 bin = 11111111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 255
+hn AFTER % 24 = 19 bin = 10011
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 19 bin = 10011
+hexDigitalPID[n] = 99 bin = 1100011
+hn AFTER shift bin = 1001101100011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4963
+hn / 24 = 206 bin = 11001110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 206
+hn AFTER % 24 = 19 bin = 10011
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 19 bin = 10011
+hexDigitalPID[n] = 253 bin = 11111101
+hn AFTER shift bin = 1001111111101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5117
+hn / 24 = 213 bin = 11010101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 213
+hn AFTER % 24 = 5 bin = 101
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 5 bin = 101
+hexDigitalPID[n] = 73 bin = 1001001
+hn AFTER shift bin = 10101001001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1353
+hn / 24 = 56 bin = 111000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 56
+hn AFTER % 24 = 9 bin = 1001
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 9 bin = 1001
+hexDigitalPID[n] = 109 bin = 1101101
+hn AFTER shift bin = 100101101101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2413
+hn / 24 = 100 bin = 1100100
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 100
+hn AFTER % 24 = 13 bin = 1101
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 13 bin = 1101
+hexDigitalPID[n] = 254 bin = 11111110
+hn AFTER shift bin = 110111111110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3582
+hn / 24 = 149 bin = 10010101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 149
+hn AFTER % 24 = 6 bin = 110
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 6 bin = 110
+hexDigitalPID[n] = 145 bin = 10010001
+hn AFTER shift bin = 11010010001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1681
+hn / 24 = 70 bin = 1000110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 70
+hn AFTER % 24 = 1 bin = 1
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = C
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 13 bin = 1101
+hn AFTER shift bin = 1101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 13
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 13 bin = 1101
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 13 bin = 1101
+hexDigitalPID[n] = 46 bin = 101110
+hn AFTER shift bin = 110100101110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3374
+hn / 24 = 140 bin = 10001100
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 140
+hn AFTER % 24 = 14 bin = 1110
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 14 bin = 1110
+hexDigitalPID[n] = 250 bin = 11111010
+hn AFTER shift bin = 111011111010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3834
+hn / 24 = 159 bin = 10011111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 159
+hn AFTER % 24 = 18 bin = 10010
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 18 bin = 10010
+hexDigitalPID[n] = 174 bin = 10101110
+hn AFTER shift bin = 1001010101110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4782
+hn / 24 = 199 bin = 11000111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 199
+hn AFTER % 24 = 6 bin = 110
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 6 bin = 110
+hexDigitalPID[n] = 188 bin = 10111100
+hn AFTER shift bin = 11010111100
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1724
+hn / 24 = 71 bin = 1000111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 71
+hn AFTER % 24 = 20 bin = 10100
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 20 bin = 10100
+hexDigitalPID[n] = 88 bin = 1011000
+hn AFTER shift bin = 1010001011000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5208
+hn / 24 = 217 bin = 11011001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 217
+hn AFTER % 24 = 0 bin = 0
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 255 bin = 11111111
+hn AFTER shift bin = 11111111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 255
+hn / 24 = 10 bin = 1010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 10
+hn AFTER % 24 = 15 bin = 1111
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 15 bin = 1111
+hexDigitalPID[n] = 206 bin = 11001110
+hn AFTER shift bin = 111111001110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4046
+hn / 24 = 168 bin = 10101000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 168
+hn AFTER % 24 = 14 bin = 1110
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 14 bin = 1110
+hexDigitalPID[n] = 213 bin = 11010101
+hn AFTER shift bin = 111011010101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3797
+hn / 24 = 158 bin = 10011110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 158
+hn AFTER % 24 = 5 bin = 101
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 5 bin = 101
+hexDigitalPID[n] = 56 bin = 111000
+hn AFTER shift bin = 10100111000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1336
+hn / 24 = 55 bin = 110111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 55
+hn AFTER % 24 = 16 bin = 10000
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 16 bin = 10000
+hexDigitalPID[n] = 100 bin = 1100100
+hn AFTER shift bin = 1000001100100
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4196
+hn / 24 = 174 bin = 10101110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 174
+hn AFTER % 24 = 20 bin = 10100
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 20 bin = 10100
+hexDigitalPID[n] = 149 bin = 10010101
+hn AFTER shift bin = 1010010010101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5269
+hn / 24 = 219 bin = 11011011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 219
+hn AFTER % 24 = 13 bin = 1101
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 13 bin = 1101
+hexDigitalPID[n] = 70 bin = 1000110
+hn AFTER shift bin = 110101000110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3398
+hn / 24 = 141 bin = 10001101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 141
+hn AFTER % 24 = 14 bin = 1110
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = W
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 140 bin = 10001100
+hn AFTER shift bin = 10001100
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 140
+hn / 24 = 5 bin = 101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 5
+hn AFTER % 24 = 20 bin = 10100
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 20 bin = 10100
+hexDigitalPID[n] = 159 bin = 10011111
+hn AFTER shift bin = 1010010011111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5279
+hn / 24 = 219 bin = 11011011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 219
+hn AFTER % 24 = 23 bin = 10111
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 23 bin = 10111
+hexDigitalPID[n] = 199 bin = 11000111
+hn AFTER shift bin = 1011111000111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 6087
+hn / 24 = 253 bin = 11111101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 253
+hn AFTER % 24 = 15 bin = 1111
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 15 bin = 1111
+hexDigitalPID[n] = 71 bin = 1000111
+hn AFTER shift bin = 111101000111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3911
+hn / 24 = 162 bin = 10100010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 162
+hn AFTER % 24 = 23 bin = 10111
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 23 bin = 10111
+hexDigitalPID[n] = 217 bin = 11011001
+hn AFTER shift bin = 1011111011001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 6105
+hn / 24 = 254 bin = 11111110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 254
+hn AFTER % 24 = 9 bin = 1001
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 9 bin = 1001
+hexDigitalPID[n] = 10 bin = 1010
+hn AFTER shift bin = 100100001010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2314
+hn / 24 = 96 bin = 1100000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 96
+hn AFTER % 24 = 10 bin = 1010
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 10 bin = 1010
+hexDigitalPID[n] = 168 bin = 10101000
+hn AFTER shift bin = 101010101000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2728
+hn / 24 = 113 bin = 1110001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 113
+hn AFTER % 24 = 16 bin = 10000
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 16 bin = 10000
+hexDigitalPID[n] = 158 bin = 10011110
+hn AFTER shift bin = 1000010011110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4254
+hn / 24 = 177 bin = 10110001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 177
+hn AFTER % 24 = 6 bin = 110
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 6 bin = 110
+hexDigitalPID[n] = 55 bin = 110111
+hn AFTER shift bin = 11000110111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1591
+hn / 24 = 66 bin = 1000010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 66
+hn AFTER % 24 = 7 bin = 111
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 7 bin = 111
+hexDigitalPID[n] = 174 bin = 10101110
+hn AFTER shift bin = 11110101110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1966
+hn / 24 = 81 bin = 1010001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 81
+hn AFTER % 24 = 22 bin = 10110
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 22 bin = 10110
+hexDigitalPID[n] = 219 bin = 11011011
+hn AFTER shift bin = 1011011011011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5851
+hn / 24 = 243 bin = 11110011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 243
+hn AFTER % 24 = 19 bin = 10011
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 19 bin = 10011
+hexDigitalPID[n] = 141 bin = 10001101
+hn AFTER shift bin = 1001110001101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5005
+hn / 24 = 208 bin = 11010000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 208
+hn AFTER % 24 = 13 bin = 1101
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = V
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+if(((i + 1) % 6) == 0)
+des[i] = '-'
+end if(((i + 1) % 6) == 0), begin else
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 5 bin = 101
+hn AFTER shift bin = 101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 5 bin = 101
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 5 bin = 101
+hexDigitalPID[n] = 219 bin = 11011011
+hn AFTER shift bin = 10111011011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1499
+hn / 24 = 62 bin = 111110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 62
+hn AFTER % 24 = 11 bin = 1011
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 11 bin = 1011
+hexDigitalPID[n] = 253 bin = 11111101
+hn AFTER shift bin = 101111111101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3069
+hn / 24 = 127 bin = 1111111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 127
+hn AFTER % 24 = 21 bin = 10101
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 21 bin = 10101
+hexDigitalPID[n] = 162 bin = 10100010
+hn AFTER shift bin = 1010110100010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5538
+hn / 24 = 230 bin = 11100110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 230
+hn AFTER % 24 = 18 bin = 10010
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 18 bin = 10010
+hexDigitalPID[n] = 254 bin = 11111110
+hn AFTER shift bin = 1001011111110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4862
+hn / 24 = 202 bin = 11001010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 202
+hn AFTER % 24 = 14 bin = 1110
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 14 bin = 1110
+hexDigitalPID[n] = 96 bin = 1100000
+hn AFTER shift bin = 111001100000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3680
+hn / 24 = 153 bin = 10011001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 153
+hn AFTER % 24 = 8 bin = 1000
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 8 bin = 1000
+hexDigitalPID[n] = 113 bin = 1110001
+hn AFTER shift bin = 100001110001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2161
+hn / 24 = 90 bin = 1011010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 90
+hn AFTER % 24 = 1 bin = 1
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 1 bin = 1
+hexDigitalPID[n] = 177 bin = 10110001
+hn AFTER shift bin = 110110001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 433
+hn / 24 = 18 bin = 10010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 18
+hn AFTER % 24 = 1 bin = 1
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 1 bin = 1
+hexDigitalPID[n] = 66 bin = 1000010
+hn AFTER shift bin = 101000010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 322
+hn / 24 = 13 bin = 1101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 13
+hn AFTER % 24 = 10 bin = 1010
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 10 bin = 1010
+hexDigitalPID[n] = 81 bin = 1010001
+hn AFTER shift bin = 101001010001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2641
+hn / 24 = 110 bin = 1101110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 110
+hn AFTER % 24 = 1 bin = 1
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 1 bin = 1
+hexDigitalPID[n] = 243 bin = 11110011
+hn AFTER shift bin = 111110011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 499
+hn / 24 = 20 bin = 10100
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 20
+hn AFTER % 24 = 19 bin = 10011
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 19 bin = 10011
+hexDigitalPID[n] = 208 bin = 11010000
+hn AFTER shift bin = 1001111010000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5072
+hn / 24 = 211 bin = 11010011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 211
+hn AFTER % 24 = 8 bin = 1000
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = M
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 62 bin = 111110
+hn AFTER shift bin = 111110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 62
+hn / 24 = 2 bin = 10
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 2
+hn AFTER % 24 = 14 bin = 1110
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 14 bin = 1110
+hexDigitalPID[n] = 127 bin = 1111111
+hn AFTER shift bin = 111001111111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3711
+hn / 24 = 154 bin = 10011010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 154
+hn AFTER % 24 = 15 bin = 1111
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 15 bin = 1111
+hexDigitalPID[n] = 230 bin = 11100110
+hn AFTER shift bin = 111111100110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4070
+hn / 24 = 169 bin = 10101001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 169
+hn AFTER % 24 = 14 bin = 1110
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 14 bin = 1110
+hexDigitalPID[n] = 202 bin = 11001010
+hn AFTER shift bin = 111011001010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3786
+hn / 24 = 157 bin = 10011101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 157
+hn AFTER % 24 = 18 bin = 10010
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 18 bin = 10010
+hexDigitalPID[n] = 153 bin = 10011001
+hn AFTER shift bin = 1001010011001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4761
+hn / 24 = 198 bin = 11000110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 198
+hn AFTER % 24 = 9 bin = 1001
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 9 bin = 1001
+hexDigitalPID[n] = 90 bin = 1011010
+hn AFTER shift bin = 100101011010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2394
+hn / 24 = 99 bin = 1100011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 99
+hn AFTER % 24 = 18 bin = 10010
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 18 bin = 10010
+hexDigitalPID[n] = 18 bin = 10010
+hn AFTER shift bin = 1001000010010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4626
+hn / 24 = 192 bin = 11000000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 192
+hn AFTER % 24 = 18 bin = 10010
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 18 bin = 10010
+hexDigitalPID[n] = 13 bin = 1101
+hn AFTER shift bin = 1001000001101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4621
+hn / 24 = 192 bin = 11000000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 192
+hn AFTER % 24 = 13 bin = 1101
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 13 bin = 1101
+hexDigitalPID[n] = 110 bin = 1101110
+hn AFTER shift bin = 110101101110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3438
+hn / 24 = 143 bin = 10001111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 143
+hn AFTER % 24 = 6 bin = 110
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 6 bin = 110
+hexDigitalPID[n] = 20 bin = 10100
+hn AFTER shift bin = 11000010100
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1556
+hn / 24 = 64 bin = 1000000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 64
+hn AFTER % 24 = 20 bin = 10100
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 20 bin = 10100
+hexDigitalPID[n] = 211 bin = 11010011
+hn AFTER shift bin = 1010011010011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5331
+hn / 24 = 222 bin = 11011110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 222
+hn AFTER % 24 = 3 bin = 11
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = F
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 2 bin = 10
+hn AFTER shift bin = 10
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 2 bin = 10
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 2 bin = 10
+hexDigitalPID[n] = 154 bin = 10011010
+hn AFTER shift bin = 1010011010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 666
+hn / 24 = 27 bin = 11011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 27
+hn AFTER % 24 = 18 bin = 10010
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 18 bin = 10010
+hexDigitalPID[n] = 169 bin = 10101001
+hn AFTER shift bin = 1001010101001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4777
+hn / 24 = 199 bin = 11000111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 199
+hn AFTER % 24 = 1 bin = 1
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 1 bin = 1
+hexDigitalPID[n] = 157 bin = 10011101
+hn AFTER shift bin = 110011101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 413
+hn / 24 = 17 bin = 10001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 17
+hn AFTER % 24 = 5 bin = 101
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 5 bin = 101
+hexDigitalPID[n] = 198 bin = 11000110
+hn AFTER shift bin = 10111000110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1478
+hn / 24 = 61 bin = 111101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 61
+hn AFTER % 24 = 14 bin = 1110
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 14 bin = 1110
+hexDigitalPID[n] = 99 bin = 1100011
+hn AFTER shift bin = 111001100011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3683
+hn / 24 = 153 bin = 10011001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 153
+hn AFTER % 24 = 11 bin = 1011
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 11 bin = 1011
+hexDigitalPID[n] = 192 bin = 11000000
+hn AFTER shift bin = 101111000000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3008
+hn / 24 = 125 bin = 1111101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 125
+hn AFTER % 24 = 8 bin = 1000
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 8 bin = 1000
+hexDigitalPID[n] = 192 bin = 11000000
+hn AFTER shift bin = 100011000000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2240
+hn / 24 = 93 bin = 1011101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 93
+hn AFTER % 24 = 8 bin = 1000
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 8 bin = 1000
+hexDigitalPID[n] = 143 bin = 10001111
+hn AFTER shift bin = 100010001111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2191
+hn / 24 = 91 bin = 1011011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 91
+hn AFTER % 24 = 7 bin = 111
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 7 bin = 111
+hexDigitalPID[n] = 64 bin = 1000000
+hn AFTER shift bin = 11101000000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1856
+hn / 24 = 77 bin = 1001101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 77
+hn AFTER % 24 = 8 bin = 1000
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 8 bin = 1000
+hexDigitalPID[n] = 222 bin = 11011110
+hn AFTER shift bin = 100011011110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2270
+hn / 24 = 94 bin = 1011110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 94
+hn AFTER % 24 = 14 bin = 1110
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = W
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 27 bin = 11011
+hn AFTER shift bin = 11011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 27
+hn / 24 = 1 bin = 1
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 1
+hn AFTER % 24 = 3 bin = 11
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 3 bin = 11
+hexDigitalPID[n] = 199 bin = 11000111
+hn AFTER shift bin = 1111000111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 967
+hn / 24 = 40 bin = 101000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 40
+hn AFTER % 24 = 7 bin = 111
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 7 bin = 111
+hexDigitalPID[n] = 17 bin = 10001
+hn AFTER shift bin = 11100010001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1809
+hn / 24 = 75 bin = 1001011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 75
+hn AFTER % 24 = 9 bin = 1001
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 9 bin = 1001
+hexDigitalPID[n] = 61 bin = 111101
+hn AFTER shift bin = 100100111101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2365
+hn / 24 = 98 bin = 1100010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 98
+hn AFTER % 24 = 13 bin = 1101
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 13 bin = 1101
+hexDigitalPID[n] = 153 bin = 10011001
+hn AFTER shift bin = 110110011001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3481
+hn / 24 = 145 bin = 10010001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 145
+hn AFTER % 24 = 1 bin = 1
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 1 bin = 1
+hexDigitalPID[n] = 125 bin = 1111101
+hn AFTER shift bin = 101111101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 381
+hn / 24 = 15 bin = 1111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 15
+hn AFTER % 24 = 21 bin = 10101
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 21 bin = 10101
+hexDigitalPID[n] = 93 bin = 1011101
+hn AFTER shift bin = 1010101011101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5469
+hn / 24 = 227 bin = 11100011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 227
+hn AFTER % 24 = 21 bin = 10101
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 21 bin = 10101
+hexDigitalPID[n] = 91 bin = 1011011
+hn AFTER shift bin = 1010101011011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5467
+hn / 24 = 227 bin = 11100011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 227
+hn AFTER % 24 = 19 bin = 10011
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 19 bin = 10011
+hexDigitalPID[n] = 77 bin = 1001101
+hn AFTER shift bin = 1001101001101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4941
+hn / 24 = 205 bin = 11001101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 205
+hn AFTER % 24 = 21 bin = 10101
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 21 bin = 10101
+hexDigitalPID[n] = 94 bin = 1011110
+hn AFTER shift bin = 1010101011110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5470
+hn / 24 = 227 bin = 11100011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 227
+hn AFTER % 24 = 22 bin = 10110
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = 8
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 1 bin = 1
+hn AFTER shift bin = 1
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 1 bin = 1
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 1 bin = 1
+hexDigitalPID[n] = 40 bin = 101000
+hn AFTER shift bin = 100101000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 296
+hn / 24 = 12 bin = 1100
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 12
+hn AFTER % 24 = 8 bin = 1000
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 8 bin = 1000
+hexDigitalPID[n] = 75 bin = 1001011
+hn AFTER shift bin = 100001001011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2123
+hn / 24 = 88 bin = 1011000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 88
+hn AFTER % 24 = 11 bin = 1011
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 11 bin = 1011
+hexDigitalPID[n] = 98 bin = 1100010
+hn AFTER shift bin = 101101100010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2914
+hn / 24 = 121 bin = 1111001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 121
+hn AFTER % 24 = 10 bin = 1010
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 10 bin = 1010
+hexDigitalPID[n] = 145 bin = 10010001
+hn AFTER shift bin = 101010010001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2705
+hn / 24 = 112 bin = 1110000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 112
+hn AFTER % 24 = 17 bin = 10001
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 17 bin = 10001
+hexDigitalPID[n] = 15 bin = 1111
+hn AFTER shift bin = 1000100001111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4367
+hn / 24 = 181 bin = 10110101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 181
+hn AFTER % 24 = 23 bin = 10111
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 23 bin = 10111
+hexDigitalPID[n] = 227 bin = 11100011
+hn AFTER shift bin = 1011111100011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 6115
+hn / 24 = 254 bin = 11111110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 254
+hn AFTER % 24 = 19 bin = 10011
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 19 bin = 10011
+hexDigitalPID[n] = 227 bin = 11100011
+hn AFTER shift bin = 1001111100011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5091
+hn / 24 = 212 bin = 11010100
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 212
+hn AFTER % 24 = 3 bin = 11
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 3 bin = 11
+hexDigitalPID[n] = 205 bin = 11001101
+hn AFTER shift bin = 1111001101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 973
+hn / 24 = 40 bin = 101000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 40
+hn AFTER % 24 = 13 bin = 1101
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 13 bin = 1101
+hexDigitalPID[n] = 227 bin = 11100011
+hn AFTER shift bin = 110111100011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3555
+hn / 24 = 148 bin = 10010100
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 148
+hn AFTER % 24 = 3 bin = 11
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = F
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+if(((i + 1) % 6) == 0)
+des[i] = '-'
+end if(((i + 1) % 6) == 0), begin else
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 12 bin = 1100
+hn AFTER shift bin = 1100
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 12
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 12 bin = 1100
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 12 bin = 1100
+hexDigitalPID[n] = 88 bin = 1011000
+hn AFTER shift bin = 110001011000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3160
+hn / 24 = 131 bin = 10000011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 131
+hn AFTER % 24 = 16 bin = 10000
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 16 bin = 10000
+hexDigitalPID[n] = 121 bin = 1111001
+hn AFTER shift bin = 1000001111001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4217
+hn / 24 = 175 bin = 10101111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 175
+hn AFTER % 24 = 17 bin = 10001
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 17 bin = 10001
+hexDigitalPID[n] = 112 bin = 1110000
+hn AFTER shift bin = 1000101110000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4464
+hn / 24 = 186 bin = 10111010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 186
+hn AFTER % 24 = 0 bin = 0
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 181 bin = 10110101
+hn AFTER shift bin = 10110101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 181
+hn / 24 = 7 bin = 111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 7
+hn AFTER % 24 = 13 bin = 1101
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 13 bin = 1101
+hexDigitalPID[n] = 254 bin = 11111110
+hn AFTER shift bin = 110111111110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3582
+hn / 24 = 149 bin = 10010101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 149
+hn AFTER % 24 = 6 bin = 110
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 6 bin = 110
+hexDigitalPID[n] = 212 bin = 11010100
+hn AFTER shift bin = 11011010100
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1748
+hn / 24 = 72 bin = 1001000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 72
+hn AFTER % 24 = 20 bin = 10100
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 20 bin = 10100
+hexDigitalPID[n] = 40 bin = 101000
+hn AFTER shift bin = 1010000101000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5160
+hn / 24 = 215 bin = 11010111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 215
+hn AFTER % 24 = 0 bin = 0
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 148 bin = 10010100
+hn AFTER shift bin = 10010100
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 148
+hn / 24 = 6 bin = 110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 6
+hn AFTER % 24 = 4 bin = 100
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = G
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 131 bin = 10000011
+hn AFTER shift bin = 10000011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 131
+hn / 24 = 5 bin = 101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 5
+hn AFTER % 24 = 11 bin = 1011
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 11 bin = 1011
+hexDigitalPID[n] = 175 bin = 10101111
+hn AFTER shift bin = 101110101111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2991
+hn / 24 = 124 bin = 1111100
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 124
+hn AFTER % 24 = 15 bin = 1111
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 15 bin = 1111
+hexDigitalPID[n] = 186 bin = 10111010
+hn AFTER shift bin = 111110111010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4026
+hn / 24 = 167 bin = 10100111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 167
+hn AFTER % 24 = 18 bin = 10010
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 18 bin = 10010
+hexDigitalPID[n] = 7 bin = 111
+hn AFTER shift bin = 1001000000111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4615
+hn / 24 = 192 bin = 11000000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 192
+hn AFTER % 24 = 7 bin = 111
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 7 bin = 111
+hexDigitalPID[n] = 149 bin = 10010101
+hn AFTER shift bin = 11110010101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1941
+hn / 24 = 80 bin = 1010000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 80
+hn AFTER % 24 = 21 bin = 10101
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 21 bin = 10101
+hexDigitalPID[n] = 72 bin = 1001000
+hn AFTER shift bin = 1010101001000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5448
+hn / 24 = 227 bin = 11100011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 227
+hn AFTER % 24 = 0 bin = 0
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 215 bin = 11010111
+hn AFTER shift bin = 11010111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 215
+hn / 24 = 8 bin = 1000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 8
+hn AFTER % 24 = 23 bin = 10111
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 23 bin = 10111
+hexDigitalPID[n] = 6 bin = 110
+hn AFTER shift bin = 1011100000110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5894
+hn / 24 = 245 bin = 11110101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 245
+hn AFTER % 24 = 14 bin = 1110
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = W
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 5 bin = 101
+hn AFTER shift bin = 101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 5 bin = 101
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 5 bin = 101
+hexDigitalPID[n] = 124 bin = 1111100
+hn AFTER shift bin = 10101111100
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1404
+hn / 24 = 58 bin = 111010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 58
+hn AFTER % 24 = 12 bin = 1100
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 12 bin = 1100
+hexDigitalPID[n] = 167 bin = 10100111
+hn AFTER shift bin = 110010100111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3239
+hn / 24 = 134 bin = 10000110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 134
+hn AFTER % 24 = 23 bin = 10111
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 23 bin = 10111
+hexDigitalPID[n] = 192 bin = 11000000
+hn AFTER shift bin = 1011111000000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 6080
+hn / 24 = 253 bin = 11111101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 253
+hn AFTER % 24 = 8 bin = 1000
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 8 bin = 1000
+hexDigitalPID[n] = 80 bin = 1010000
+hn AFTER shift bin = 100001010000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2128
+hn / 24 = 88 bin = 1011000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 88
+hn AFTER % 24 = 16 bin = 10000
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 16 bin = 10000
+hexDigitalPID[n] = 227 bin = 11100011
+hn AFTER shift bin = 1000011100011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4323
+hn / 24 = 180 bin = 10110100
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 180
+hn AFTER % 24 = 3 bin = 11
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 3 bin = 11
+hexDigitalPID[n] = 8 bin = 1000
+hn AFTER shift bin = 1100001000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 776
+hn / 24 = 32 bin = 100000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 32
+hn AFTER % 24 = 8 bin = 1000
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 8 bin = 1000
+hexDigitalPID[n] = 245 bin = 11110101
+hn AFTER shift bin = 100011110101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2293
+hn / 24 = 95 bin = 1011111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 95
+hn AFTER % 24 = 13 bin = 1101
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = V
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 58 bin = 111010
+hn AFTER shift bin = 111010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 58
+hn / 24 = 2 bin = 10
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 2
+hn AFTER % 24 = 10 bin = 1010
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 10 bin = 1010
+hexDigitalPID[n] = 134 bin = 10000110
+hn AFTER shift bin = 101010000110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2694
+hn / 24 = 112 bin = 1110000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 112
+hn AFTER % 24 = 6 bin = 110
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 6 bin = 110
+hexDigitalPID[n] = 253 bin = 11111101
+hn AFTER shift bin = 11011111101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1789
+hn / 24 = 74 bin = 1001010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 74
+hn AFTER % 24 = 13 bin = 1101
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 13 bin = 1101
+hexDigitalPID[n] = 88 bin = 1011000
+hn AFTER shift bin = 110101011000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3416
+hn / 24 = 142 bin = 10001110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 142
+hn AFTER % 24 = 8 bin = 1000
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 8 bin = 1000
+hexDigitalPID[n] = 180 bin = 10110100
+hn AFTER shift bin = 100010110100
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2228
+hn / 24 = 92 bin = 1011100
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 92
+hn AFTER % 24 = 20 bin = 10100
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 20 bin = 10100
+hexDigitalPID[n] = 32 bin = 100000
+hn AFTER shift bin = 1010000100000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5152
+hn / 24 = 214 bin = 11010110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 214
+hn AFTER % 24 = 16 bin = 10000
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 16 bin = 10000
+hexDigitalPID[n] = 95 bin = 1011111
+hn AFTER shift bin = 1000001011111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4191
+hn / 24 = 174 bin = 10101110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 174
+hn AFTER % 24 = 15 bin = 1111
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = X
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 2 bin = 10
+hn AFTER shift bin = 10
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 2 bin = 10
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 2 bin = 10
+hexDigitalPID[n] = 112 bin = 1110000
+hn AFTER shift bin = 1001110000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 624
+hn / 24 = 26 bin = 11010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 26
+hn AFTER % 24 = 0 bin = 0
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 74 bin = 1001010
+hn AFTER shift bin = 1001010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 74
+hn / 24 = 3 bin = 11
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 3
+hn AFTER % 24 = 2 bin = 10
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 2 bin = 10
+hexDigitalPID[n] = 142 bin = 10001110
+hn AFTER shift bin = 1010001110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 654
+hn / 24 = 27 bin = 11011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 27
+hn AFTER % 24 = 6 bin = 110
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 6 bin = 110
+hexDigitalPID[n] = 92 bin = 1011100
+hn AFTER shift bin = 11001011100
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1628
+hn / 24 = 67 bin = 1000011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 67
+hn AFTER % 24 = 20 bin = 10100
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 20 bin = 10100
+hexDigitalPID[n] = 214 bin = 11010110
+hn AFTER shift bin = 1010011010110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5334
+hn / 24 = 222 bin = 11011110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 222
+hn AFTER % 24 = 6 bin = 110
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 6 bin = 110
+hexDigitalPID[n] = 174 bin = 10101110
+hn AFTER shift bin = 11010101110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1710
+hn / 24 = 71 bin = 1000111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 71
+hn AFTER % 24 = 6 bin = 110
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = J
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+if(((i + 1) % 6) == 0)
+des[i] = '-'
+end if(((i + 1) % 6) == 0), begin else
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 26 bin = 11010
+hn AFTER shift bin = 11010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 26
+hn / 24 = 1 bin = 1
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 1
+hn AFTER % 24 = 2 bin = 10
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 2 bin = 10
+hexDigitalPID[n] = 3 bin = 11
+hn AFTER shift bin = 1000000011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 515
+hn / 24 = 21 bin = 10101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 21
+hn AFTER % 24 = 11 bin = 1011
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 11 bin = 1011
+hexDigitalPID[n] = 27 bin = 11011
+hn AFTER shift bin = 101100011011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2843
+hn / 24 = 118 bin = 1110110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 118
+hn AFTER % 24 = 11 bin = 1011
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 11 bin = 1011
+hexDigitalPID[n] = 67 bin = 1000011
+hn AFTER shift bin = 101101000011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2883
+hn / 24 = 120 bin = 1111000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 120
+hn AFTER % 24 = 3 bin = 11
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 3 bin = 11
+hexDigitalPID[n] = 222 bin = 11011110
+hn AFTER shift bin = 1111011110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 990
+hn / 24 = 41 bin = 101001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 41
+hn AFTER % 24 = 6 bin = 110
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 6 bin = 110
+hexDigitalPID[n] = 71 bin = 1000111
+hn AFTER shift bin = 11001000111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1607
+hn / 24 = 66 bin = 1000010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 66
+hn AFTER % 24 = 23 bin = 10111
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = 9
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 1 bin = 1
+hn AFTER shift bin = 1
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 1 bin = 1
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 1 bin = 1
+hexDigitalPID[n] = 21 bin = 10101
+hn AFTER shift bin = 100010101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 277
+hn / 24 = 11 bin = 1011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 11
+hn AFTER % 24 = 13 bin = 1101
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 13 bin = 1101
+hexDigitalPID[n] = 118 bin = 1110110
+hn AFTER shift bin = 110101110110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3446
+hn / 24 = 143 bin = 10001111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 143
+hn AFTER % 24 = 14 bin = 1110
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 14 bin = 1110
+hexDigitalPID[n] = 120 bin = 1111000
+hn AFTER shift bin = 111001111000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3704
+hn / 24 = 154 bin = 10011010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 154
+hn AFTER % 24 = 8 bin = 1000
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 8 bin = 1000
+hexDigitalPID[n] = 41 bin = 101001
+hn AFTER shift bin = 100000101001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2089
+hn / 24 = 87 bin = 1010111
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 87
+hn AFTER % 24 = 1 bin = 1
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 1 bin = 1
+hexDigitalPID[n] = 66 bin = 1000010
+hn AFTER shift bin = 101000010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 322
+hn / 24 = 13 bin = 1101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 13
+hn AFTER % 24 = 10 bin = 1010
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = Q
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 11 bin = 1011
+hn AFTER shift bin = 1011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 11
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 11 bin = 1011
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 11 bin = 1011
+hexDigitalPID[n] = 143 bin = 10001111
+hn AFTER shift bin = 101110001111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2959
+hn / 24 = 123 bin = 1111011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 123
+hn AFTER % 24 = 7 bin = 111
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 7 bin = 111
+hexDigitalPID[n] = 154 bin = 10011010
+hn AFTER shift bin = 11110011010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1946
+hn / 24 = 81 bin = 1010001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 81
+hn AFTER % 24 = 2 bin = 10
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 2 bin = 10
+hexDigitalPID[n] = 87 bin = 1010111
+hn AFTER shift bin = 1001010111
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 599
+hn / 24 = 24 bin = 11000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 24
+hn AFTER % 24 = 23 bin = 10111
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 23 bin = 10111
+hexDigitalPID[n] = 13 bin = 1101
+hn AFTER shift bin = 1011100001101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5901
+hn / 24 = 245 bin = 11110101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 245
+hn AFTER % 24 = 21 bin = 10101
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = 7
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 123 bin = 1111011
+hn AFTER shift bin = 1111011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 123
+hn / 24 = 5 bin = 101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 5
+hn AFTER % 24 = 3 bin = 11
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 3 bin = 11
+hexDigitalPID[n] = 81 bin = 1010001
+hn AFTER shift bin = 1101010001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 849
+hn / 24 = 35 bin = 100011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 35
+hn AFTER % 24 = 9 bin = 1001
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 9 bin = 1001
+hexDigitalPID[n] = 24 bin = 11000
+hn AFTER shift bin = 100100011000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2328
+hn / 24 = 97 bin = 1100001
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 97
+hn AFTER % 24 = 0 bin = 0
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 245 bin = 11110101
+hn AFTER shift bin = 11110101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 245
+hn / 24 = 10 bin = 1010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 10
+hn AFTER % 24 = 5 bin = 101
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = H
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 5 bin = 101
+hn AFTER shift bin = 101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 5
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 5 bin = 101
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 5 bin = 101
+hexDigitalPID[n] = 35 bin = 100011
+hn AFTER shift bin = 10100100011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1315
+hn / 24 = 54 bin = 110110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 54
+hn AFTER % 24 = 19 bin = 10011
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 19 bin = 10011
+hexDigitalPID[n] = 97 bin = 1100001
+hn AFTER shift bin = 1001101100001
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4961
+hn / 24 = 206 bin = 11001110
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 206
+hn AFTER % 24 = 17 bin = 10001
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 17 bin = 10001
+hexDigitalPID[n] = 10 bin = 1010
+hn AFTER shift bin = 1000100001010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 4362
+hn / 24 = 181 bin = 10110101
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 181
+hn AFTER % 24 = 18 bin = 10010
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = 3
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+if(((i + 1) % 6) == 0)
+des[i] = '-'
+end if(((i + 1) % 6) == 0), begin else
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 54 bin = 110110
+hn AFTER shift bin = 110110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 54
+hn / 24 = 2 bin = 10
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 2
+hn AFTER % 24 = 6 bin = 110
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 6 bin = 110
+hexDigitalPID[n] = 206 bin = 11001110
+hn AFTER shift bin = 11011001110
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1742
+hn / 24 = 72 bin = 1001000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 72
+hn AFTER % 24 = 14 bin = 1110
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 14 bin = 1110
+hexDigitalPID[n] = 181 bin = 10110101
+hn AFTER shift bin = 111010110101
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 3765
+hn / 24 = 156 bin = 10011100
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 156
+hn AFTER % 24 = 21 bin = 10101
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = 7
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 2 bin = 10
+hn AFTER shift bin = 10
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 2 bin = 10
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 2 bin = 10
+hexDigitalPID[n] = 72 bin = 1001000
+hn AFTER shift bin = 1001001000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 584
+hn / 24 = 24 bin = 11000
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 24
+hn AFTER % 24 = 8 bin = 1000
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 8 bin = 1000
+hexDigitalPID[n] = 156 bin = 10011100
+hn AFTER shift bin = 100010011100
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 2204
+hn / 24 = 91 bin = 1011011
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 91
+hn AFTER % 24 = 20 bin = 10100
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = 6
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 24 bin = 11000
+hn AFTER shift bin = 11000
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 24
+hn / 24 = 1 bin = 1
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 1
+hn AFTER % 24 = 0 bin = 0
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 91 bin = 1011011
+hn AFTER shift bin = 1011011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 91
+hn / 24 = 3 bin = 11
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 3
+hn AFTER % 24 = 19 bin = 10011
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = 4
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 1 bin = 1
+hn AFTER shift bin = 1
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 1
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 1 bin = 1
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 1 bin = 1
+hexDigitalPID[n] = 3 bin = 11
+hn AFTER shift bin = 100000011
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 259
+hn / 24 = 10 bin = 1010
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 10
+hn AFTER % 24 = 19 bin = 10011
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = 4
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+for(i = D_LEN - 1; i >= 0; --i)
+else
+hn = 0
+n = 14
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 13
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 12
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 11
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 10
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 9
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 8
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 7
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 6
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 5
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 4
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 3
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 2
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 1
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 0 bin = 0
+hn AFTER shift bin = 0
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 0
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 0 bin = 0
+n = 0
+for(n = S_LEN - 1; n >= 0; --n)
+hn BEFORE shift = 0 bin = 0
+hexDigitalPID[n] = 10 bin = 1010
+hn AFTER shift bin = 1010
+hn = ((hn << 8) + hexDigitalPID[n]), hn = 10
+hn / 24 = 0 bin = 0
+hexDigitalPID[n] = (hn / 24), hexDigitalPID[n] = 0
+hn AFTER % 24 = 10 bin = 1010
+after for(n = S_LEN - 1; n >= 0; --n
+des[i] = digits[hn], des[i] = Q
+end else, bottom of for(i = D_LEN - 1; i >= 0; --1)
+end of for(i = D_LEN - 1; i >= 0; --1)
+des[D_LEN] = null
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q44
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q446
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-J
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JX
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXV
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXVW
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXVWG
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXVWG-
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXVWG-F
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXVWG-F8
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXVWG-F8W
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXVWG-F8WF
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXVWG-F8WFM
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXVWG-F8WFM-
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXVWG-F8WFM-V
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXVWG-F8WFM-VW
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXVWG-F8WFM-VWC
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXVWG-F8WFM-VWC3
+for(i = 0; des[i] != null; ++1)
+rval += des[i], rval = Q4467-3H7Q9-JXVWG-F8WFM-VWC3B
+return rval, rval = Q4467-3H7Q9-JXVWG-F8WFM-VWC3B
