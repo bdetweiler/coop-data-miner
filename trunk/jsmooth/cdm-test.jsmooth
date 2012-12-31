@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<jsmoothproject>
+<JVMSearchPath>registry</JVMSearchPath>
+<JVMSearchPath>javahome</JVMSearchPath>
+<JVMSearchPath>jrepath</JVMSearchPath>
+<JVMSearchPath>jdkpath</JVMSearchPath>
+<JVMSearchPath>exepath</JVMSearchPath>
+<JVMSearchPath>jview</JVMSearchPath>
+<arguments></arguments>
+<bundledJVMPath>..\..\j2sdk1.4.0\jre</bundledJVMPath>
+<classPath>..\..\j2sdk1.4.0\jre\jre</classPath>
+<classPath>..\..\j2sdk1.4.0\jre\lib</classPath>
+<classPath>.</classPath>
+<currentDirectory>.</currentDirectory>
+<embeddedJar>true</embeddedJar>
+<executableName>cdm-test.exe</executableName>
+<iconLocation>favicon.jpg</iconLocation>
+<initialMemoryHeap>-1</initialMemoryHeap>
+<jarLocation>..\cdm.jar</jarLocation>
+<mainClassName></mainClassName>
+<maximumMemoryHeap>-1</maximumMemoryHeap>
+<maximumVersion></maximumVersion>
+<minimumVersion></minimumVersion>
+<skeletonName>Windowed Wrapper</skeletonName>
+<skeletonProperties>
+<key>Message</key>
+<value>Java has not been found on your computer. Do you want to download it?</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>URL</key>
+<value>http://java.sun.com/j2se/1.4.2/download.html</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>SingleProcess</key>
+<value>1</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>Debug</key>
+<value>1</value>
+</skeletonProperties>
+</jsmoothproject>
